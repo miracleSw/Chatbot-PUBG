@@ -6,7 +6,7 @@ import re
 
 
 # Configure the API key
-genai.configure(api_key="AIzaSyAjBVQ4O6XptzMVSXk2U0QHh27FfX1VM0o")
+genai.configure(api_key="AIzaSyD-xOC5CZJrJIzMDYwNSxrRLZiae0Hqlc4")
 
 # Set up the model
 generation_config = {
